@@ -34,3 +34,7 @@ docs/sphinx/references/auto
 /forest.amrwind
 /forest_points.dat
 /post_processing/
+
+# Local Claude Code instructions
+/CLAUDE.md
+.claude
